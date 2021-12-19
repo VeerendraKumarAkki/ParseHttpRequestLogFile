@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseHttpRequest", "ParseHttpRequest\ParseHttpRequest.csproj", "{CBA33F44-2375-4C35-A0C9-E947D1A9A9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseHttpRequest.Tests", "ParseHttpRequest.Tests\ParseHttpRequest.Tests.csproj", "{2574B55F-7B2C-4328-A009-8CADFB8D9B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA33F44-2375-4C35-A0C9-E947D1A9A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA33F44-2375-4C35-A0C9-E947D1A9A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA33F44-2375-4C35-A0C9-E947D1A9A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA33F44-2375-4C35-A0C9-E947D1A9A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2574B55F-7B2C-4328-A009-8CADFB8D9B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2574B55F-7B2C-4328-A009-8CADFB8D9B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2574B55F-7B2C-4328-A009-8CADFB8D9B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2574B55F-7B2C-4328-A009-8CADFB8D9B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B203212E-F570-4434-BE02-F4D49589D1AD}
+	EndGlobalSection
+EndGlobal

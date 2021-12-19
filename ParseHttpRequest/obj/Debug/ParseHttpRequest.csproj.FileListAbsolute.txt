@@ -1,0 +1,14 @@
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.exe.config
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.exe
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.pdb
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.csprojAssemblyReference.cache
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.exe
+C:\Users\veerendra.akki\source\repos\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.pdb
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.exe.config
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.exe
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\bin\Debug\ParseHttpRequest.pdb
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.csprojAssemblyReference.cache
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.exe
+C:\Users\veerendra.akki\OneDrive - Essential\Desktop\Programming_Task_-_Azenix\ParseHttpRequest\ParseHttpRequest\obj\Debug\ParseHttpRequest.pdb
